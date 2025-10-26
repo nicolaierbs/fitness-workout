@@ -1,0 +1,70 @@
+- id: 0
+  name: "Beinpresse"
+  reps: [6, 8]
+  sets: 3
+  rest: 120
+  comment: "explosiv"
+
+- id: 1
+  name: "Rev. Lunges"
+  reps: [6, 10]
+  sets: 4
+  rest: 60
+  comment: ""
+
+- id: 2
+  name: "RDL"
+  reps: [8, 12]
+  sets: 4
+  rest: 0
+  comment: ""
+
+- id: 3
+  name: "Wandsitzen"
+  reps: [30, 45]
+  sets: 4
+  rest: 60
+  comment: ""
+
+- id: 4
+  name: "Kniestrecker"
+  reps: [12, 99]
+  sets: 2
+  rest: 90
+  comment: "einbeinig, extrentisch"
+
+- id: 5
+  name: "Kniestrecker"
+  reps: [6, 10]
+  sets: 4
+  rest: 90
+  comment: "beidbeinig"
+
+- id: 6
+  name: "Walking Lunges"
+  reps: [16, 20]
+  sets: 3
+  rest: 90
+  comment: "alternierend"
+
+- id: 7
+  name: "Kniebeuger"
+  reps: [8, 12]
+  sets: 4
+  rest: 90
+  comment: "Hohlkreuz"
+
+- id: 8
+  name: "Wandsitzen"
+  reps: [15, 20]
+  sets: 4
+  rest: 60
+  comment: "einbeinig"
+
+- id: 9
+  name: "Wadenheben"
+  reps: [5, 8]
+  sets: 3
+  rest: 60
+  comment: "einbeinig, gestreckt"
+  
